@@ -1,0 +1,28 @@
+[0.265s] Invoking command in '/home/zjy/桌面/hw_2/src/py_publis': PYTHONPATH=/home/zjy/桌面/hw_2/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/zjy/桌面/hw_2/build/py_pubsub/build install --record /home/zjy/桌面/hw_2/build/py_pubsub/install.log --single-version-externally-managed install_data
+[0.376s] running egg_info
+[0.376s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.376s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.376s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.376s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.376s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.377s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.377s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.377s] running build
+[0.377s] running build_py
+[0.377s] copying py_publis/publisher.py -> /home/zjy/桌面/hw_2/build/py_pubsub/build/lib/py_publis
+[0.377s] copying py_publis/listener.py -> /home/zjy/桌面/hw_2/build/py_pubsub/build/lib/py_publis
+[0.377s] running install
+[0.377s] running install_lib
+[0.377s] copying /home/zjy/桌面/hw_2/build/py_pubsub/build/lib/py_publis/publisher.py -> /home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages/py_publis
+[0.378s] copying /home/zjy/桌面/hw_2/build/py_pubsub/build/lib/py_publis/listener.py -> /home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages/py_publis
+[0.378s] byte-compiling /home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages/py_publis/publisher.py to publisher.cpython-310.pyc
+[0.378s] byte-compiling /home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages/py_publis/listener.py to listener.cpython-310.pyc
+[0.378s] running install_data
+[0.378s] running install_egg_info
+[0.379s] removing '/home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.379s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.379s] running install_scripts
+[0.389s] Installing listener script to /home/zjy/桌面/hw_2/install/py_pubsub/lib/py_pubsub
+[0.389s] Installing publisher script to /home/zjy/桌面/hw_2/install/py_pubsub/lib/py_pubsub
+[0.389s] writing list of installed files to '/home/zjy/桌面/hw_2/build/py_pubsub/install.log'
+[0.398s] Invoked command in '/home/zjy/桌面/hw_2/src/py_publis' returned '0': PYTHONPATH=/home/zjy/桌面/hw_2/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zjy/桌面/hw_2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/zjy/桌面/hw_2/build/py_pubsub/build install --record /home/zjy/桌面/hw_2/build/py_pubsub/install.log --single-version-externally-managed install_data

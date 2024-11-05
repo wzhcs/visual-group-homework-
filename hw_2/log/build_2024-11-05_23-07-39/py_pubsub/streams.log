@@ -1,0 +1,27 @@
+[0.259s] Invoking command in '/home/zjy/hw_2/build/py_pubsub': PYTHONPATH=/home/zjy/hw_2/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zjy/hw_2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/zjy/hw_2/build/py_pubsub/build --no-deps symlink_data
+[0.395s] running develop
+[0.395s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.396s]   warnings.warn(
+[0.463s] running egg_info
+[0.463s] creating py_pubsub.egg-info
+[0.463s] writing py_pubsub.egg-info/PKG-INFO
+[0.463s] writing dependency_links to py_pubsub.egg-info/dependency_links.txt
+[0.463s] writing entry points to py_pubsub.egg-info/entry_points.txt
+[0.463s] writing requirements to py_pubsub.egg-info/requires.txt
+[0.463s] writing top-level names to py_pubsub.egg-info/top_level.txt
+[0.463s] writing manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[0.463s] reading manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[0.464s] writing manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[0.464s] running build_ext
+[0.464s] Creating /home/zjy/hw_2/install/py_pubsub/lib/python3.10/site-packages/py-pubsub.egg-link (link to .)
+[0.465s] Installing listener script to /home/zjy/hw_2/install/py_pubsub/lib/py_pubsub
+[0.465s] Installing talker script to /home/zjy/hw_2/install/py_pubsub/lib/py_pubsub
+[0.465s] 
+[0.465s] Installed /home/zjy/hw_2/build/py_pubsub
+[0.465s] running symlink_data
+[0.465s] creating /home/zjy/hw_2/install/py_pubsub/share/ament_index
+[0.465s] creating /home/zjy/hw_2/install/py_pubsub/share/ament_index/resource_index
+[0.465s] creating /home/zjy/hw_2/install/py_pubsub/share/ament_index/resource_index/packages
+[0.465s] symbolically linking /home/zjy/hw_2/build/py_pubsub/resource/py_pubsub -> /home/zjy/hw_2/install/py_pubsub/share/ament_index/resource_index/packages
+[0.465s] symbolically linking /home/zjy/hw_2/build/py_pubsub/package.xml -> /home/zjy/hw_2/install/py_pubsub/share/py_pubsub
+[0.478s] Invoked command in '/home/zjy/hw_2/build/py_pubsub' returned '0': PYTHONPATH=/home/zjy/hw_2/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zjy/hw_2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/zjy/hw_2/build/py_pubsub/build --no-deps symlink_data
